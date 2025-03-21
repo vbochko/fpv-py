@@ -5,6 +5,9 @@
 brew install hidapi
 ```
 
+### wsl
+https://learn.microsoft.com/en-us/windows/wsl/connect-usb
+
 ## wiki
 radiomaster controllers run on EdgeTx, when connected by usb in joystick it's possible to interact with it as with hid device  
 https://manual.edgetx.org/edgetx-how-to/joystick-mapping-information-for-game-developers 
